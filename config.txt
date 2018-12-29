@@ -1,6 +1,6 @@
-owner=514041065041297421
-prefix= 1
-game= Type 1 help
+owner=349906494822547471
+prefix= V
+game= Type V help
 stayinchannel=true
 songinstatus=true 
-token=NTI3ODQyOTA3OTM2MzkxMTgx.DwZn-g.Dkej27cVi9ExB1p7PqVklMNBx3Q
+token=NTI4NTU5ODQyODU2Nzk2MTYw.DwkEhA.u5ZgRZlFZXXBF5JRIR3gWH7Honw
